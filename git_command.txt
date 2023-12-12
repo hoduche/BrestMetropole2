@@ -1,0 +1,1 @@
+git config --global alias.agp "log --all --graph --pretty=format:'%C(yellow)%h %C(cyan)%ad %C(blue)%an %C(auto)%d %C(reset)%s' --date=format:'%Y-%m-%d %H:%M'"
